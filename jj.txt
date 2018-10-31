@@ -1,0 +1,58 @@
+    1  cd 
+    2  cd /Users/traad/myXil15/dcc/code
+    3  cd c:/Users/traad/myXil15/dcc/code
+    4  gcc -o warp warp1200x900.c
+    5  run warp
+    6  warp
+    7  exec warp
+    8  cd /c/code
+    9  ls -ltr
+   10  gcc -o rot_1to1 rot_1to1_map_r1.c -lm ; run rot_1to1 ; run warp
+   11  gcc -o rot_1to1 rot_1to1_map_r1.c -lm
+   12  pwd
+   13  cd c:/myGitWork
+   14  dir
+   15  ls
+   16  echo "# myDeepEnd" >> README.md
+   17  git init
+   18  git add README.md
+   19  git commit -m "first commit"
+   20  git remote add origin https://github.com/tdraad/myDeepEnd.git
+   21  git push -u origin master
+   22  pwd
+   23  ls
+   24  ltr
+   25  ls -a
+   26  git status
+   27  git add .
+   28  git status
+   29  git commit -m "2nd commit"
+   30  git status
+   31  git push
+   32  git pull
+   33  git pull .
+   34  git status
+   35  git checkout README.md
+   36  git status
+   37  git status
+   38  git pull .
+   39  git update .
+   40  ls
+   41  git pull README.md
+   42  git status
+   43  history
+   44  git add test1.txt
+   45  git comit -m "adding file"
+   46  git status
+   47  git log
+   48  get push -u origin master
+   49  git push -u origin master
+   50  git push master
+   51  git push -u origin master
+   52  git push
+   53  git status
+   54  git comit -a -m "hh"
+   55  git commit -a -m "hh"
+   56  git status
+   57  git push
+   58  history >> jj
